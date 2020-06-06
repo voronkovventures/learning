@@ -14,3 +14,4 @@ button.onclick = function() {
     isClicked = true;
   }
 };
+alert("WORKS");
